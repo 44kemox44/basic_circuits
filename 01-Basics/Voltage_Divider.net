@@ -1,0 +1,7 @@
+* E:\Git\Circuits\01-Basics\Voltage_Divider.asc
+R1 Vout Vin 1k
+R2 Vout 0 1k
+Vsource Vin 0 5
+.tran 1
+.backanno
+.end
