@@ -10,54 +10,10 @@ The goal is to create a **reference library** for students and engineers working
 ## Repository Structure
 
 ### 01-Basics 📐
+- Voltage, Current and Resistor
 - Voltage Divider  
 - Thevenin Equivalent  
 - Norton Equivalent  
-- RC Time Constant  
-- RLC Resonance  
-
-### 02-Current Sources 🔋
-- Simple Current Source  
-- Simple Current Mirror  
-- Wilson Current Mirror  
-- Cascode Current Mirror  
-
-### 03-Amplifiers ⚡
-- Common Emitter  
-- Common Source  
-- Differential Pair  
-- Darlington Pair  
-- Cascode Amplifier  
-
-### 04-OpAmps 🔎
-- Inverting Amplifier  
-- Non-Inverting Amplifier  
-- Summing Amplifier  
-- Integrator  
-- Differentiator  
-
-### 05-Filters 🎚️
-- RC Low-Pass  
-- RC High-Pass  
-- LC Low-Pass  
-- LC Band-Pass  
-- Active Filter  
-
-### 06-Oscillators 🔊
-- RC Phase Shift Oscillator  
-- Wien Bridge Oscillator  
-- Colpitts Oscillator  
-
-### 07-Power 🔌
-- Half-Wave Rectifier  
-- Full-Wave Rectifier  
-- Basic Voltage Regulator  
-- Zener Regulator  
-
-### 08-Advanced 🚀
-- Bandgap Reference  
-- Gilbert Cell  
-- OTA (Operational Transconductance Amplifier)  
 
 ---
 

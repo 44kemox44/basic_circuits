@@ -61,7 +61,7 @@ $$
 Results for the LTSpice is given below:
 
 <p align="center">
-  <img src="../../Docs/img/voltage_divider_1_result.png" alt="Voltage Divider" width="1000">
+  <img src="../../Docs/img/voltage_divider_1_result.png" alt="Voltage Divider Result" width="1000">
 </p>
 
 
